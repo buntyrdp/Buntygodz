@@ -4,7 +4,7 @@ const settings = {
 BOT_NAME: "monarch"
   timezone: 'Africa/Accra',
   prefix: '.',
-  ownerNumber: '',
+  ownerNumber: '', 923432443022
   AUTO_STATUS_REACT: 'false',
   AUTO_STATUS_REPLY: 'false',
   AUTO_STATUS_MSG: 'Status Viewed Queen Riam',

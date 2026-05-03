@@ -1,8 +1,7 @@
 const settings = {
-  packname: 'Queen Riam',
-  author: 'Hector Manuel',
-  botName: 'Queen Riam',
-  botOwner: 'Hector Manuel',
+  OWNER_NUMBER: 923073022765
+    OWNER_NAME: "Bunty"
+BOT_NAME: "monarch"
   timezone: 'Africa/Accra',
   prefix: '.',
   ownerNumber: '',
